@@ -1,0 +1,3 @@
+D:\My projects C++\Calculator\Calculator\Debug\Calculator.vcxprojAssemblyReference.cache
+D:\My projects C++\Calculator\Calculator\Debug\Calculator.MyForm.resources
+D:\My projects C++\Calculator\Calculator\Debug\Calculator.vcxproj.GenerateResource.cache
